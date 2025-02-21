@@ -4,15 +4,32 @@
         "id": 1,
         "name": "Usuário 1",
         "email": "usuario1@example.com",
-        "senha": "senha123"
+        "senha": "senha123",
+        "posts": [
+          {
+            "id": 1,
+            "title": "Post do Usuário 1"
+          }
+        ],
+        "profile": {
+          "name": "Usuário 1"
+        }
       },
       {
         "id": 2,
         "name": "Usuário 2",
         "email": "usuario2@example.com",
-        "senha": "senha456"
+        "senha": "senha456",
+        "posts": [
+          {
+            "id": 2,
+            "title": "Post do Usuário 2"
+          }
+        ],
+        "profile": {
+          "name": "Usuário 2"
+        }
       }
     ]
   }
-  
   
